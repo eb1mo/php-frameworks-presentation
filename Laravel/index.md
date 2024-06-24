@@ -1,6 +1,5 @@
-Sure, here is a comprehensive README file for your Laravel presentation. You can host this on your GitHub repository to assist students in understanding Laravel better.
 
-```markdown
+
 # Laravel Presentation
 
 ## Table of Contents
