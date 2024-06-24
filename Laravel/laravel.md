@@ -143,4 +143,4 @@ cd laravel-project
 
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts](https://laracasts.com)
-- [Laravel Setup Tutorial](https://youtu.be/iBaM5LYgyPk?si=378JQf3-lo-nGLXh)
+- [Laravel Setup Tutorial](https://youtu.be/iBaM5LYgyPk?si=378JQf3-lo-nGLXh&t=0)
