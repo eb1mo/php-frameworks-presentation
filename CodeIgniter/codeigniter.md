@@ -10,7 +10,7 @@
 
 ## Introduction to CodeIgniter
 
-CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications. It is based on the MVC (Model-View-Controller) architectural pattern, which helps in creating efficient and robust web applications.
+CodeIgniter is a powerful PHP framework with a very small footprint (only 1.1MB), built for developers who need a simple and elegant toolkit to create full-featured web applications. It is based on the MVC (Model-View-Controller) architectural pattern, which helps in creating efficient and robust web applications.
 
 CodeIgniter is known for its speed and performance, offering features such as form and data validation, session management, and a rich set of libraries and helpers.
 
