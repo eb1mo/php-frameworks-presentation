@@ -68,6 +68,11 @@ Before you install the latest version of Laravel, make sure you have the followi
    composer global require laravel/installer
    ```
 
+   **Verify Install**
+   ```sh
+   laravel --version
+   ```
+
    **Note**: You might need to make some modifications in `php.ini` inside `xampp/php`, such as enabling the zip extension for the project to work in XAMPP.
 
 4. **Create Project**
@@ -77,6 +82,8 @@ Before you install the latest version of Laravel, make sure you have the followi
    ```sh
    laravel new firstwebsite
    ```
+
+   You might need to setup extra parameters as well. You can choose your database as well after installation. Make sure you check the `env` file & make a database in `phpMyAdmin` accordingly before proceding.
 
 5. **Navigate to the Project Directory**
 
