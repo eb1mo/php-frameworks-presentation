@@ -69,7 +69,7 @@ Before you install the latest version of CodeIgniter, make sure you have the fol
    composer create-project codeigniter4/appstarter firstwebsite
    ```
 
-   **Note**: You might need to make some modifications in `php.ini` inside `xampp/php`, such as enabling the `initl` extension for the project to work in XAMPP.
+   **Note**: You might need to make some modifications in `php.ini` inside `xampp/php`, such as enabling the `intl` extension for the project to work in XAMPP.
 
 4. **Navigate to the Project Directory**
 
